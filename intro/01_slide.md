@@ -1,4 +1,4 @@
-!SLIDE 
+!SLIDE home
 ![ComoRichWeb](comorichweb-logo.png)
-# ComoRichWeb #
+# CoMO Rich Web #
 ## January 17th, 2012 ##

@@ -1,9 +1,7 @@
-!SLIDE 
-# UPCOMING #
-
 !SLIDE smbullets incremental
-# Upcoming Topics #
-* In no particular order:
+# Upcoming Topics! #
+(In no particular order)
+
  * Riak
  * Backbone.js
  * Coffeescript

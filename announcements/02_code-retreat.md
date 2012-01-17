@@ -1,10 +1,8 @@
-!SLIDE
-# Code Retreat #
-
 !SLIDE smbullets incremental
-# Code Retreat #
-* What? http://coderetreat.com/
-* Early March
+
+# Code Retreat! #
+* <span class="highlight">What?</span> http://coderetreat.com/
+* <span class="highlight">When?</span> Early March
 * Limited Seating
 * Looking for Sponsors!
 * Watch For Announcement 
